@@ -1,34 +1,45 @@
 # Hi there! 👋 I'm Reda Bellafqira
 
-**👨‍🏫 Associate Professor | 🔬 Researcher | 🛡️ Cybersecurity Expert | 🤖 AI/ML Enthusiast**
+**👨‍🏫 Associate Professor | 🔬 AI Security Researcher | 🤖 AI/ML Enthusiast**
 
-Welcome to my GitHub profile! I'm an Associate Professor at IMT Atlantique, specializing in **federated learning**, **deep neural network watermarking**, and **privacy-preserving machine learning**. My work focuses on developing secure and robust AI systems, particularly in sensitive domains like healthcare.
+Welcome to my GitHub profile! I'm an Associate Professor at IMT Atlantique, specializing in **federated learning**, **deep neural network watermarking**, and **cryptography**. My work focuses on developing secure and robust AI systems, particularly in sensitive domains like healthcare.
 
 ---
+
 ## 🚀 About Me
 
 - 👨‍🏫 **Position**: Associate Professor at IMT Atlantique
-- 🔬 **Research Focus**: Federated Learning, AI Security, Healthcare Data Privacy
-- 📚 **Teaching**: C++ Programming, Cryptography, Network Security
+- 🔬 **Research Focus**: Federated Learning, DNN Watermarking, AI Security, Healthcare Data Privacy
+- 📚 **Teaching**: C++ Programming, Cryptography
 - 🏛️ **Institution**: IMT Atlantique, France
 - 📧 **Contact**: reda.bellafqira@imt-atlantique.fr
 - 🌍 **Based in**: France
-- 📊 **Publications**: 29+ research papers with 139+ citations
+- 📊 **Publications**: 35+ research papers with 239+ citations
 
 ## 🔬 Research Interests
 
-```python
-research_areas = {
-    "AI Security": ["Deep Neural Network Watermarking", "Malicious Model Detection"],
-    "Privacy Tech": ["Federated Learning", "Healthcare Data De-identification"],
-    "Applications": ["Electronic Health Records", "Medical AI", "Privacy-Preserving ML"],
-    "Security": ["Cryptography", "Data Protection", "Blockchain"]
-}
+```
+🔬 Research Areas:
+├── AI Security
+│   ├── Deep Neural Network Watermarking
+│   └── Malicious Model Detection
+├── Privacy Tech
+│   ├── Federated Learning
+│   └── Healthcare Data De-identification
+├── Applications
+│   └── Medical AI
+└── Security
+    ├── Cryptography
+    ├── Watermarking
+    └── Blockchain
 
-teaching_areas = {
-    "Programming": ["C++ Development", "Algorithm Design", "Design patterns"],
-    "Security": ["Applied Cryptography"],
-}
+📚 Teaching Areas:
+├── Programming
+│   ├── C++ Development
+│   ├── Design Patterns
+│   └── UML Diagrams
+└── Security
+    └── Applied Cryptography
 ```
 
 ## 🎓 Teaching & Education
@@ -40,37 +51,44 @@ As an Associate Professor at IMT Atlantique, I'm passionate about education and 
 - **Cryptography** - Classical and modern cryptographic techniques, security protocols
 
 **🎯 Research Supervision:**
-- PhD students in AI Security and Federated Learning
+- PhD students and research engineers in AI Security, Federated Learning, Homomorphic Encryption, Secure Multiparty Computation, Image watermarking
 - Master's thesis projects in privacy-preserving machine learning
 - International collaborations and research exchanges
 
 ---
 
+## 🔬 Featured Research Projects
+
 ### 🔐 [DICTION](https://github.com/Bellafqira/DICTION) - DNN Watermarking
-**Dynamic Robust White-box Watermarking Scheme**
-- 🎯 Protecting intellectual property of deep neural networks
+**DICTION: DynamIC robusT whIte bOx Watermarking Scheme for Deep Neural Networks**
+- 🎯 Protecting intellectual property of deep neural networks in white-box settings
 - 🛡️ Robust against various attacks and model modifications
-- 📄 [Research Paper](https://arxiv.org/abs/2210.15745) (arXiv:2210.15745)
+- 📄 [Research Paper](https://www.mdpi.com/2076-3417/15/13/7511)
 
 ### 🔍 [FedCAM](https://github.com/Bellafqira/FedCAM_) - Malicious Model Detection
-**Identifying Malicious Models in Federated Learning**
+**FedCAM: Identifying Malicious Models in Federated Learning Environments Conditionally to Their Activation Maps**
 - 🕵️ Detects malicious participants in federated learning environments
-- 🧠 Uses activation maps for conditional identification
+- 🧠 Uses activation maps for conditional identification to detect Byzantine and backdooring attacks
 - 🏥 Applications in healthcare and sensitive domains
+- 📄 [Research Paper](https://ieeexplore.ieee.org/document/10449550?signout=success) 
 
 ### 📊 [Histogram Shifting Predictions](https://github.com/Bellafqira/histogram_shiffting_predictions)
-**Advanced Data Analysis Techniques**
+**A Blockchain-Enhanced Reversible Watermarking Framework for End-to-End Data Traceability in Federated Learning Systems**
 - 📈 Statistical analysis and prediction methods
 - 🔬 Research-grade implementation
 - 📊 Data visualization and processing tools
+- 📄 [Research Paper](https://hal.science/hal-05094859v1/file/IP040_CSP2025.pdf) 
 
 ## 📚 Recent Publications
 
 **Selected Recent Work:**
-- 🏥 **"Secure Extraction of Personal Information from EHR by Federated Machine Learning"** - Privacy-preserving healthcare AI
-- 🔒 **"FedCAM - Identifying Malicious Models in Federated Learning Environments"** - Security in distributed learning
-- 📋 **"Automatic de-identification of French Electronic Health Records"** - Healthcare data privacy
-- 🌐 **"When Federated Learning Meets Watermarking"** - Comprehensive overview of IP protection
+- **"DICTION: DynamIC robusT whIte bOx Watermarking Scheme for Deep Neural Networks"**
+- **"FedCAM: Identifying Malicious Models in Federated Learning Environments Conditionally to Their Activation Maps"** 
+- **"Automatic Deidentification of French Electronic Health Records: A Cost-Effective Approach Exploiting Distant Supervision and Deep Learning Models"** 
+- **"When Federated Learning Meets Watermarking: A Comprehensive Overview of Techniques for Intellectual Property Protection"**
+- **"A Blockchain-Enhanced Reversible Watermarking Framework for End-to-End Data Traceability in Federated Learning Systems"**
+- **"Secure Extraction of Personal Information from EHR by Federated Machine Learning"**
+- **"FedCrypt: A Dynamic White-Box Watermarking Scheme for Homomorphic Federated Learning"**
 
 [📖 View Full Publication List](https://scholar.google.fr/citations?user=CueXGB8AAAAJ&hl=fr)
 
@@ -112,39 +130,39 @@ As an Associate Professor at IMT Atlantique, I'm passionate about education and 
 
 ```
 📊 Research Metrics:
-├── 📄 Publications: 29+
-├── 📈 Citations: 139+
+├── 📄 Publications: 35+
+├── 📈 Citations: 239+
 ├── 🔗 H-index: Growing
 └── 🌍 International Collaborations
 ```
-
-## 🤝 Collaboration & Contact
-
-I'm always interested in collaborating on:
-- 🔬 **Federated Learning** research and applications
-- 🛡️ **AI Security** and robustness studies  
-- 🏥 **Healthcare AI** and privacy-preserving technologies
-- 📚 **Open Source** projects in ML security
-
-**Let's Connect:**
-- 📧 Email: [reda.bellafqira@imt-atlantique.fr](mailto:reda.bellafqira@imt-atlantique.fr)
-- 🔗 Google Scholar: [My Publications](https://scholar.google.fr/citations?user=CueXGB8AAAAJ&hl=fr)
-- 🌐 ResearchGate: [My Profile](https://www.researchgate.net/profile/Reda-Bellafqira)
 
 ## 🎯 Current Research Focus
 
 ```mermaid
 graph TD
     A[AI Security Research] --> B[Federated Learning]
-    A --> C[DNN Watermarking]
+    A --> C[DNN/Image Watermarking]
     A --> D[Healthcare Privacy]
     B --> E[Malicious Detection]
-    B --> F[Robust Aggregation]
+    B --> F[Robust Aggregation against Byzantine and Backdooring Attacks]
     C --> G[IP Protection]
     C --> H[Model Authentication]
     D --> I[EHR De-identification]
     D --> J[Privacy-Preserving ML]
 ```
+
+## 🤝 Collaboration & Contact
+
+I'm always interested in collaborating on:
+- 🔬 **Federated Learning** research and applications
+- 🛡️ **DNN watermarking** and robustness studies  
+- 🏥 **Healthcare AI** and privacy-preserving technologies
+- 📚 **Open Source** projects in ML security
+
+**Let's Connect: 🤝**
+- 📧 Email: [reda.bellafqira@imt-atlantique.fr](mailto:reda.bellafqira@imt-atlantique.fr)
+- 🔗 Google Scholar: [My Publications](https://scholar.google.fr/citations?user=CueXGB8AAAAJ&hl=fr)
+- 🌐 ResearchGate: [My Profile](https://www.researchgate.net/profile/Reda-Bellafqira)
 
 ---
 
